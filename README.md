@@ -8,7 +8,7 @@
 <li>If both the computer and the person choose the same option, the game is a draw.</li>
 <h3>2.Choosing</h3>
 <p>The player makes their choice by clicking to the displayed picture of options and then the computer randomly generates its choice.</p>
-<h3>2.Scores</h3>
+<h3>3.Scores</h3>
 <p>Once choices are opted based on the game rules, player score and the computer score will be increased and the respective message will also be displayed on the screen if one of them wins</p>
 <h1>Technology used</h1>
 <p>HTML5: For structuring the game interface.</p>
