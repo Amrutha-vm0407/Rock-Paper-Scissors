@@ -1,6 +1,6 @@
 <h1>Rock Paper Scissors Game</h1>
 <h3>Live Demo: https://sparkling-croissant-06a1f7.netlify.app/</h3>
-< h1>Information about the game</h1>
+<h1>Information about the game</h1>
 <h3>1. Choices and their Interactions:</h3>
 <li>Rock: Beats Scissors, but loses to Paper.</li>
 <li>Paper: Beats Rock, but loses to Scissors.</li>
