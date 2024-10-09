@@ -10,6 +10,7 @@
 <p>The player makes their choice by clicking to the displayed picture of options and then the computer randomly generates its choice.</p>
 <h3>3.Scores</h3>
 <p>Once choices are opted based on the game rules, player score and the computer score will be increased and the respective message will also be displayed on the screen if one of them wins</p>
+<img src="Screenshot 2024-10-03 225555.png">
 <h1>Technology used</h1>
 <p>HTML5: For structuring the game interface.</p>
 <p>CSS3: For styling the elements and creating a responsive design.</p>
