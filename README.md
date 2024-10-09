@@ -15,7 +15,7 @@
 <img src="Screenshot 2024-10-03 225655.png">
 <h2>Image shows the ROCK PAPER SCISSORS gaming interface ,if the choice of user wins over computer choice</h2>
 <img src="Screenshot 2024-10-03 225622.png">
-<h2>Image showsw the ROCK PAPER SCISSORS gaming interface,if the choice of the computer wins over user choice </h2>
+<h2>Image shows the ROCK PAPER SCISSORS gaming interface,if the choice of the computer wins over user choice </h2>
 <h1>Technology used</h1>
 <p>HTML5: For structuring the game interface.</p>
 <p>CSS3: For styling the elements and creating a responsive design.</p>
