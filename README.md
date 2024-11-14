@@ -17,9 +17,9 @@
 <img src="Screenshot 2024-10-03 225622.png">
 <h2>Image shows the ROCK PAPER SCISSORS gaming interface,if the choice of the computer wins over user choice </h2>
 <h1>Technology used</h1>
-<p>HTML5: For structuring the game interface.</p>
-<p>CSS3: For styling the elements and creating a responsive design.</p>
-<p>JavaScript (ES6): For implementing logic, handling user interactions, and updating the user move state dynamically.</p>
+<p><b>HTML5</b>: For structuring the game interface.</p>
+<p><b>CSS3</b>: For styling the elements and creating a responsive design.</p>
+<p><b>JavaScript (ES6)</b>: For implementing logic, handling user interactions, and updating the user move state dynamically.</p>
 
 <h1>Installation</h1>
 
